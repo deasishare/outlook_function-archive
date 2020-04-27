@@ -17,3 +17,4 @@ Il dispose d'une interface de paramétrage et un accès au journal des actions (
 
 
 
+!(boite de dialogue : Paramètrage)[images/screenshot1.jpg]
