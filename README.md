@@ -17,10 +17,13 @@ Il dispose d'une interface de paramétrage et un accès au journal des actions (
 
 
 Ci-dessous, le screenshot d'un message avec piece jointe archivé :
+
 ![](images/screenshot1.jpg)
 
 Ci-dessous, le screenshot de la barre d'outil :
+
 ![](images/screenshot2.jpg)
 
 Ci-dessous, le screenshot de la boite de dialogue pour le paramètrage :
+
 ![](images/screenshot3.jpg)
