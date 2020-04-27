@@ -4,6 +4,7 @@
 - Langage : VBa
 - Date de développement : 27/04/2020
 - Fonction : Archivage des pièces jointes 
+- Version : 1.00
 
 Pour diminuer efficacement notre charge individuelle sur les serveurs Exchange, des ratios ont été mis en place. Les utilisateurs sont invités à changer leurs pratiques, limiter l'envoi de pièces jointes et utiliser les espaces collaboratifs.
 
